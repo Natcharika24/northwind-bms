@@ -1,9 +1,9 @@
 <?php
 class Database {
-    private $servername = "localhost";
-    private $username = "root";       
-    private $password = "root";       
-    private $dbname = "db_northwind"; 
+    private $servername = "sql204.infinityfree.com";
+    private $username = "if0_43313065";       
+    private $password = "6XWEBYuhteqjFS";       
+    private $dbname = "if0_43313065_northwind"; 
     public $conn;
 
     public function getConnection() {
